@@ -92,8 +92,6 @@ nav a:hover {
     width: fit-content;
 }
 
-/* COFFEE */
-
 .coffee {
     background: #A8C3A0;
     display: flex;
@@ -169,7 +167,6 @@ nav a:hover {
     line-height: 1.5;
 }
 
-/* FOOTER */
 
 footer {
     padding: 35px;
